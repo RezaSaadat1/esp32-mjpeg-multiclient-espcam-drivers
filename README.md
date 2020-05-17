@@ -8,7 +8,7 @@
 
 2. unzip using `unzip -j esp32-cam-master.zip` command. This will place all files in the same folder
 
-**NOTE:** please observe the `-j` flag: the sketch assumes all files are in the same folder. 
+    **NOTE:** please observe the `-j` flag: the sketch assumes all files are in the same folder. 
 
 3. In **esp32-cam.ino** sketch select your camera pin assignment. The choices are:
 
